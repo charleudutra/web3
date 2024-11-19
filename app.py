@@ -1,0 +1,1 @@
+app_charlow = Flask(__name__ template_folder='t_template')
